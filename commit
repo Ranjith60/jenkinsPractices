@@ -1,0 +1,13 @@
+public class HelloGuys{
+
+
+public static void main(string[]args){
+
+System.out.println("hey ajai");
+System.out.println("hey santhosh");
+System.out.println("hey arun");
+
+
+}
+
+}
